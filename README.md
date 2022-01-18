@@ -29,7 +29,7 @@ Including:
 
 
 
-4. comfile.py
+4. comfile_write.py
 
 A script to generate Maestro running file .com file for cyclohexyl, which require more complicated structure read and write.
 
