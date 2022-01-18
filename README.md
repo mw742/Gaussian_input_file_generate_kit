@@ -14,7 +14,7 @@ A script to read a lots of gaussian single point energy calculation output files
 
 3. Maetsro_autorun.py
 
-A script to generate all tyoes of running files to run MacroMOdel using command line in universtiy' module system.
+A script to generate all tyopes of running files to run MacroMOdel using command line in universtiy's module management system.
 
 
 Including:
@@ -35,7 +35,7 @@ A script to generate Maestro running file .com file for cyclohexyl, which requir
 
 
 
-5. logfile.py
+5. logfile_read.py
 
 A script to read Maestro conformational searching output .log file. 
 
