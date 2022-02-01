@@ -29,13 +29,13 @@ Including:
 
 
 
-4. comfile_write.py
+4. Cyclohexyl_comfile_write.py
 
-A script to generate Maestro running file .com file for cyclohexyl, which require more complicated structure read and write.
+A script to generate Maestro running confomational searching file .com file for cyclohexyl, which require more complicated structure read and write.
 
 
 
-5. logfile_read.py
+5. Maestro_logfile_read.py
 
 A script to read Maestro conformational searching output .log file. 
 
